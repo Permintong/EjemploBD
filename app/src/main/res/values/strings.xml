@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EjemploBD</string>
+    <string name="txthint1">introduce dni</string>
+    <string name="txthint2">introduce nombre y apellidos</string>
+    <string name="txthint3">introduce ciudad</string>
+    <string name="txthint4">introduce teléfono</string>
+    <string name="lbl1">DNI</string>
+    <string name="lbl2">Nombre y apellidos</string>
+    <string name="lbl3">Ciudad</string>
+    <string name="lbl4">Teléfono</string>
+
+
+</resources>
